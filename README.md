@@ -1,4 +1,4 @@
-# Vityarthi_Project
+# Vityarthi Project
 ## Student Expense Tracker
 A Java-based console application designed for students to track their daily spending, manage categories, and maintain financial records through persistent file storage.
 
